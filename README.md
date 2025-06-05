@@ -1,4 +1,4 @@
 # testing
-Repository for testing my Git/GitHub setup
+Hello, world.
 
-This is a line from RStudio
+Testing from workshop using [this resource](https://g4m.clontz.org)
